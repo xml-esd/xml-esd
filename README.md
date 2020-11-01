@@ -1,3 +1,5 @@
+![Görkem Göktuğ GÜR](bio.gif)
+
 ### Hi there 👋
 
 <!--
