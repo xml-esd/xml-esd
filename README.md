@@ -18,7 +18,7 @@
 <a href="https://twitter.com/buckybuckk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buckybuckk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gorkemgur" target="blank"><img align="center" src="assets/linkedin.svg" alt="gorkemgur" height="30" width="40" /></a>
 <a href="https://fb.com/gorkem.goktug1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gorkem.goktug1" height="30" width="40" /></a>
-<a href="https://instagram.com/justgorkemmmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="justgorkemmmm" height="30" width="40" /></a>
+<a href="https://instagram.com/justgorkemmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="justgorkemmmm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
