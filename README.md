@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java,Kotlin,Jetpack**
 
-- 👨‍💻 All of my projects are available at [https://gorkemgur.com](https://gorkemgur.com)
+- 👨‍💻 My Portfolio Website is [https://www.gorkemgur.com](https://www.gorkemgur.com)
 
-- 💬 Ask me about **Html,CSS,Kotlin**
+- 💬 Ask me about **Html,CSS,Kotlin,Django,Python**
 
 - 📫 How to reach me **gorkembusiness@hotmail.com**
 
