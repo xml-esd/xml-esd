@@ -1,4 +1,4 @@
-![Görkem Göktuğ GÜR](bio.gif)
+[![Görkem Göktuğ GÜR.](bio.gif)](https://www.gorkemgur.com)
 
 ### Hi there 👋
 
