@@ -1,4 +1,4 @@
-<h1 align="center">[![Görkem Göktuğ GÜR.](assets/bio.gif)](https://www.gorkemgur.com)</h1>
+[![Görkem Göktuğ GÜR.](assets/bio.gif)](https://www.gorkemgur.com)
 <h3 align="center">Jr.Android Developer From Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xml-esd" alt="xml-esd" /></a> </p>
